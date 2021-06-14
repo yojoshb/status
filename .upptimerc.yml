@@ -18,6 +18,7 @@ status-website:
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  js: "window.onload = function() { alert('Hello!') }"
   theme: dark
   name: Upptime
   introTitle: "**Current Service(s) Status**"
