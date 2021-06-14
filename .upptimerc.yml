@@ -28,8 +28,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    metaTags:
-      - name: "color-scheme"
-        content: "dark light"
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
 
 # https://upptime.js.org/docs/configuration
