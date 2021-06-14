@@ -3,17 +3,19 @@ repo: status
 
 sites:
   - name: Plex
-    url: http://99.176.0.39:32400
+    url: https://www.plex.tv/
   - name: Ombi
     url: https://ombi.joshyb.xyz
   - name: Wiki
     url: https://wiki.joshyb.xyz
   - name: Valheim Server (Kingdom Kum)
     url: https://valheim.joshyb.xyz
+    status-website: Temporarily Disabled
   - name: Valheim Server (Hall and Oaks)
     url: https://valheim2.joshyb.xyz
   - name: Minecraft Server
     url: https://mc.joshyb.xyz
+    status-website: Temporarily Disabled
   
 status-website:
   cname: status.joshyb.xyz
