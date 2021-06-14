@@ -19,8 +19,6 @@ status-website:
   metaTags:
     - name: "color-scheme"
       content: "dark light"
-    - name: "robots"
-      content: "noindex"
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -34,8 +32,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   
-status-website:
-  metaTags:
-    - name: "color-scheme"
-      content: "dark light"
 # https://upptime.js.org/docs/configuration
