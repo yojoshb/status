@@ -10,28 +10,32 @@ sites:
     url: $WIKI_URL
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
-    status-website: Temporarily Disabled
   - name: Valheim Server (Hall and Oaks)
     url: $VAL2
   - name: Minecraft Server
     url: $MC
-    status-website: Temporarily Disabled
   
 status-website:
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: JoshyBs Services Status
+  name: JoshyBs Service Monitor
   introTitle: "**Current Service(s) Status**"
-  introMessage: This status page uses **real-time** data from [GitHub](https://github.com/upptime/upptime). If you have any questions please contact me by email. [Gmail](mailto:joshbezotte95@gmail.com)
+  introMessage: This status page uses **real-time** data using [Upptime](https://github.com/upptime/upptime) queries. If you have any service issues feel free to reach out to me.
   navbar:
     - title: Home
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  
+status-website:
   metaTags:
     - name: "color-scheme"
       content: "dark light"
-
 # https://upptime.js.org/docs/configuration
