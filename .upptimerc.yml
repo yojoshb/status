@@ -3,30 +3,30 @@ repo: status
 
 sites:
   - name: Plex
-    url: http://99.176.0.39:32400/web/
+    url: $PLEX_URL
   - name: Ombi
-    url: https://ombi.joshyb.xyz
+    url: $OMBI_URL
   - name: Wiki
-    url: https://wiki.joshyb.xyz
+    url: $WIKI_URL
   - name: Valheim Server (Kingdom Kum)
-    url: https://valheim.joshyb.xyz
+    url: $VAL1
     status-website: Temporarily Disabled
   - name: Valheim Server (Hall and Oaks)
-    url: https://valheim2.joshyb.xyz
+    url: $VAL2
   - name: Minecraft Server
-    url: https://mc.joshyb.xyz
+    url: $MC
     status-website: Temporarily Disabled
   
 status-website:
-  cname: status.joshyb.xyz
+  cname: $UT
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: Upptime
+  name: JoshyBs Services Status
   introTitle: "**Current Service(s) Status**"
   introMessage: This status page uses **real-time** data from [GitHub](https://github.com/upptime/upptime). If you have any questions please contact me by email. [Gmail](mailto:joshbezotte95@gmail.com)
   navbar:
-    - title: Status
+    - title: Home
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
