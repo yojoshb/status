@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Plex
-    url: https://
+    url: http://99.176.0.39:32400
   - name: Ombi
     url: https://ombi.joshyb.xyz
   - name: Wiki
@@ -22,14 +22,14 @@ status-website:
   theme: dark
   name: Upptime
   introTitle: "**Current Service(s) Status**"
-  introMessage: This status page uses **real-time** data from [GitHub](https://github.com/upptime/upptime). If you have any questions please contact me - [Gmail](joshbezotte95@gmail.com)
+  introMessage: This status page uses **real-time** data from [GitHub](https://github.com/upptime/upptime). If you have any questions please contact me by email. [Gmail](mailto:joshbezotte95@gmail.com)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  metaTags:
-    - name: "color-scheme"
-      content: "dark light"
+    metaTags:
+      - name: "color-scheme"
+        content: "dark light"
 
 # https://upptime.js.org/docs/configuration
