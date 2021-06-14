@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Plex
-    url: https://www.plex.tv/
+    url: http://99.176.0.39:32400/web/
   - name: Ombi
     url: https://ombi.joshyb.xyz
   - name: Wiki
