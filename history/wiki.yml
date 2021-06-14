@@ -1,7 +1,7 @@
-url: https://wiki.joshyb.xyz
+url: $WIKI_URL
 status: up
 code: 200
-responseTime: 445
-lastUpdated: 2021-06-14T22:05:28.401Z
+responseTime: 596
+lastUpdated: 2021-06-14T22:14:49.550Z
 startTime: Mon Jun 14 2021 21:18:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
