@@ -18,7 +18,7 @@ sites:
     status-website: Temporarily Disabled
   
 status-website:
-  cname: $UT
+  cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
