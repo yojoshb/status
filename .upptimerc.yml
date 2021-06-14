@@ -22,7 +22,7 @@ status-website:
   theme: dark
   name: Upptime
   introTitle: "**Current Service(s) Status**"
-  introMessage: This status page uses **real-time** data from [GitHub](https://github.com/upptime/upptime). If you have any questions please contact me: [Gmail](joshbezotte95@gmail.com)
+  introMessage: "This status page uses **real-time** data from [GitHub](https://github.com/upptime/upptime). If you have any questions please contact me - **[Gmail]**(joshbezotte95@gmail.com)"
   navbar:
     - title: Status
       href: /
