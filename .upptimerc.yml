@@ -23,9 +23,9 @@ status-website:
   name: JoshBs Service Monitor
   introTitle: "**Current Service(s) Status**"
   # introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime).
-    - title: Home
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  - title: Home
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
   
 # https://upptime.js.org/docs/configuration
