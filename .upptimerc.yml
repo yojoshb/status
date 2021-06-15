@@ -3,9 +3,7 @@ repo: status
 
 sites:
   - name: Plex Media Server
-    check: "tcp-ping"
-    url: 99.176.0.32
-    port: 32400
+    url: $URL_PLEX
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico
   - name: Ombi
     url: $URL_OMBI
