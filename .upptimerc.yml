@@ -22,8 +22,7 @@ status-website:
   theme: dark
   name: Josh B's Service Monitor
   introTitle: "**Current Service(s) Status**"
-  #introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime). If you have any service issues feel free to reach out to me.
-  navbar:
+  #introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime).
     - title: Home
       href: /
     - title: GitHub
