@@ -2,12 +2,13 @@ owner: yojoshb
 repo: status
 
 sites:
-  - name: Plex
+  - name: Plex Media Server
     url: $PLEX_URL
   - name: Ombi
     url: $OMBI_URL
-  - name: Wiki
-    url: $WIKI_URL
+  - name: Internal Wiki
+    url: https://wiki.joshyb.xyz
+    #url: $WIKI_URL
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
   - name: Valheim Server (Hall and Oaks)
@@ -20,12 +21,17 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: JoshBs Service Monitor
+  name: Josh B's Service Monitor
   introTitle: "**Current Service(s) Status**"
   # introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime).
-  - title: Home
-    href: /
-  - title: GitHub
-    href: https://github.com/$OWNER/$REPO
+  navbar:
+    - title: Home
+      href: /
+    - title: Plex Service Status
+      href: https://plex.tv/
+    - title: Ombi
+      href: $OMBI_URL
+    - title: GitHub Repo
+      href: https://github.com/$OWNER/$REPO
   
 # https://upptime.js.org/docs/configuration
