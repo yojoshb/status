@@ -16,11 +16,9 @@ sites:
   - name: Valheim Server (Hall and Oaks)
     url: $VAL2
   - name: Minecraft Server
-    check: tcp-ping
-    #url: $MC
-    #port: $MC_PORT
-    url: 99.176.0.39
-    port: 25565
+    check: "tcp-ping"
+    url: $MC
+    port: $MC_PORT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
   
 status-website:
