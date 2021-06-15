@@ -19,6 +19,7 @@ sites:
     check: "tcp-ping"
     url: $MC
     port: $MC_PORT
+    https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
   
 status-website:
   cname: status.joshyb.xyz
