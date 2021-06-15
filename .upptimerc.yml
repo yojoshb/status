@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: Josh B's Service Monitor
+  name: "Josh B's Service Monitor"
   introTitle: "**Current Service(s) Status**"
   #introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime).
     - title: Home
