@@ -6,7 +6,7 @@ sites:
     url: $PLEX_URL
   - name: Ombi
     url: $OMBI_URL
-    icon: https://github.com/yojoshb/status/blob/master/assets/favicon.ico
+    icon: https://github.com/yojoshb/status/blob/master/assets/favicon-32x32.png
   - name: Internal Wiki
     url: $WIKI_URL
   - name: Valheim Server (Kingdom Kum)
