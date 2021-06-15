@@ -6,9 +6,9 @@ sites:
     url: $PLEX_URL
   - name: Ombi
     url: $OMBI_URL
+    icon: /assets/favicon.ico
   - name: Internal Wiki
-    url: https://wiki.joshyb.xyz
-    #url: $WIKI_URL
+    url: $WIKI_URL
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
   - name: Valheim Server (Hall and Oaks)
