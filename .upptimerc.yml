@@ -4,11 +4,13 @@ repo: status
 sites:
   - name: Plex Media Server
     url: $URL_PLEX
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico
   - name: Ombi
     url: $URL_OMBI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico
   - name: Internal Wiki
     url: $URL_WIKI
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
   - name: Valheim Server (Hall and Oaks)
@@ -35,5 +37,7 @@ status-website:
       href: $OMBI_URL
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
   
 # https://upptime.js.org/docs/configuration
