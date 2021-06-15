@@ -16,14 +16,11 @@ sites:
     url: $MC
   
 status-website:
-  metaTags:
-    - name: "color-scheme"
-      content: "dark light"
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  #theme: dark
-  name: JoshyBs Service Monitor
+  theme: dark
+  name: Josh B's Service Monitor
   introTitle: "**Current Service(s) Status**"
   #introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime). If you have any service issues feel free to reach out to me.
   navbar:
