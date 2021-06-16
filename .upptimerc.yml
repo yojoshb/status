@@ -10,10 +10,10 @@ sites:
   - name: Ombi
     url: $URL_OMBI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico
-  - name: Documentation Wiki
+  - name: Wiki
     url: $URL_WIKI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
-  - name: Apache Guacamole
+  - name: Guacamole Server
     url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Valheim Server (Kingdom Kum)
@@ -41,7 +41,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   favicon: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   theme: night
-  name: joshyb.xyz - Service Status
+  name: Service Status
   #introTitle: "Status page for various services"
   #introMessage: "**Real-time** data refreshed every ~10 minutes" 
   navbar:
@@ -49,7 +49,7 @@ status-website:
       href: /
     #- title: Contact
     #  href: mailto:
-    - title: GitHub Repo
+    - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 i18n:
