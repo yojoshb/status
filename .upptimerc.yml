@@ -41,15 +41,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   favicon: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   theme: night
-  name: Service Status
-  #introTitle: "Status page for various self-hosted services"
+  name: joshyb.xyz - Service Status
+  #introTitle: "Status page for various services"
   #introMessage: "**Real-time** data refreshed every ~10 minutes" 
   navbar:
     - title: Status
       href: /
     #- title: Contact
     #  href: mailto:
-    - title: Git Repo
+    - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
 
 i18n:
