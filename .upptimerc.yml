@@ -18,10 +18,10 @@ sites:
   - name: Valheim Server (Hall and Oaks)
     url: $VAL2
   - name: Minecraft Server
-    check: "tcp-ping"
+    #check: "tcp-ping"
     url: $MC
-    port: $MC_PORT
-    # tcp-ping not reporting as failed wheen pings fail... so gonna put this guy in scheduled maintenance
+    #port: $MC_PORT
+    # tcp-ping not reporting as failed wheen pings fail... so gonna put this guy in scheduled maintenance and fail it
     expectedStatusCodes: 
       - 401
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
