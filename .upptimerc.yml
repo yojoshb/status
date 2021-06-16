@@ -15,13 +15,15 @@ sites:
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   - name: Valheim Server (Hall and Oaks)
     url: $VAL2
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   - name: Minecraft Server
     #check: "tcp-ping"
     url: $MC
     #port: $MC_PORT
-    # tcp-ping not reporting as failed wheen pings fail... so gonna put this guy in scheduled maintenance and fail it
+    # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
     expectedStatusCodes: 
       - 301
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
@@ -32,7 +34,7 @@ assignees:
 status-website:
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   theme: dark
   name: Josh B's Status Page
   introTitle: "**Service Status**"
@@ -41,7 +43,7 @@ status-website:
     - title: Status
       href: /
     - title: Contact
-      href: mailto:joshbezotte95@gmail.com
+      href: $CONTACT
     - title: Git Repo
       href: https://github.com/$OWNER/$REPO
 
