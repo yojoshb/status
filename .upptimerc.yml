@@ -23,7 +23,7 @@ sites:
     #port: $MC_PORT
     # tcp-ping not reporting as failed wheen pings fail... so gonna put this guy in scheduled maintenance and fail it
     expectedStatusCodes: 
-      - 401
+      - 301
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
 
 assignees:
@@ -36,7 +36,7 @@ status-website:
   theme: dark
   name: Josh B's Status Page
   introTitle: "**Service Status**"
-  introMessage: **Real-time** data refreshed every ~5 minutes. 
+  introMessage: "**Real-time** data refreshed every ~5 minutes." 
   navbar:
     - title: Status
       href: /
