@@ -10,13 +10,16 @@ sites:
   - name: Ombi
     url: $URL_OMBI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico
-  - name: Internal Wiki
+  - name: Documentation Wiki
     url: $URL_WIKI
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
+  - name: Apache Guacamole
+    url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
-  - name: Valheim Server (Hall and Oaks)
+  - name: Valheim Server (Great Hall and Oaks)
     url: $VAL2
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   - name: Minecraft Server
