@@ -37,10 +37,10 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   favicon: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
-  theme: dark
-  name: Josh B's Status Page
-  introTitle: "**Service Status**"
-  introMessage: "**Real-time** data refreshed every ~5 minutes." 
+  theme: night
+  name: Joshy B's Service Status
+  introTitle: "Status page for various self-hosted services"
+  introMessage: "**Real-time** data refreshed every ~10 minutes" 
   navbar:
     - title: Status
       href: /
