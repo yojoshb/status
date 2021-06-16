@@ -4,6 +4,8 @@ repo: status
 sites:
   - name: Plex Media Server
     url: $URL_PLEX
+    expectedStatusCodes: 
+      - 401
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico
   - name: Ombi
     url: $URL_OMBI
@@ -17,8 +19,8 @@ sites:
     url: $VAL2
   - name: Minecraft Server
     check: "tcp-ping"
-    url: 99.176.0.39
-    port: 25565
+    url: $MC
+    port: $MC_PORT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
   
 status-website:
