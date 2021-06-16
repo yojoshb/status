@@ -25,7 +25,7 @@ sites:
     #port: $MC_PORT
     # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
     expectedStatusCodes: 
-      - 301
+      - 401
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
 
 assignees:
@@ -35,7 +35,7 @@ status-website:
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
+  logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbs.png
   theme: dark
   name: Josh B's Status Page
   introTitle: "**Service Status**"
@@ -44,7 +44,7 @@ status-website:
     - title: Status
       href: /
     - title: Contact
-      href: $CONTACT
+      href: mailto:joshbezotte95@gmail.com
     - title: Git Repo
       href: https://github.com/$OWNER/$REPO
 
