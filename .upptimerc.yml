@@ -36,6 +36,7 @@ status-website:
   # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
+  favicon: https://raw.githubusercontent.com/yojoshb/status/master/assets/url.ico
   theme: dark
   name: Josh B's Status Page
   introTitle: "**Service Status**"
