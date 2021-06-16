@@ -34,7 +34,8 @@ assignees:
 status-website:
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
-  logoUrl: icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   theme: dark
   name: Josh B's Status Page
   introTitle: "**Service Status**"
