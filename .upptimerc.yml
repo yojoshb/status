@@ -21,25 +21,30 @@ sites:
     check: "tcp-ping"
     url: $MC
     port: $MC_PORT
+    # tcp-ping not reporting as failed wheen pings fail... so gonna put this guy in scheduled maintenance
+    expectedStatusCodes: 
+      - 401
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
+
+assignees:
+  - yojoshb
   
 status-website:
   cname: status.joshyb.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: Josh B's Service Monitor
-  introTitle: "**Current Service(s) Status**"
-  # introMessage: This status page queries **real-time** data using [Upptime](https://github.com/upptime/upptime).
+  name: Josh B's Status Page
+  introTitle: "**Service Status**"
+  introMessage: **Real-time** data refreshed every ~5 minutes. 
   navbar:
-    - title: Home
+    - title: Status
       href: /
-    - title: Plex Service Status
-      href: https://plex.tv/
-    - title: Ombi
-      href: $OMBI_URL
-    - title: GitHub Repo
+    - title: Contact
+      href: mailto:joshbezotte95@gmail.com
+    - title: Git Repo
       href: https://github.com/$OWNER/$REPO
+
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
   
