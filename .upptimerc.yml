@@ -15,7 +15,7 @@ sites:
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Guacamole Server
     url: $URL_GUAC
-    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico
   - name: Valheim Server (Kingdom Kum)
     url: $VAL1
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
