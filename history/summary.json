@@ -11,7 +11,7 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.71%",
     "time": 117,
-    "timeDay": 93,
+    "timeDay": 126,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 211,
+    "timeDay": 245,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
@@ -43,18 +43,18 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 577,
-    "timeDay": 544,
+    "timeDay": 0,
     "timeWeek": 577,
     "timeMonth": 577,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2021-06-19": 0
+      "2021-06-19": 5
     }
   },
   {
@@ -69,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 164,
+    "timeDay": 214,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
@@ -80,19 +80,19 @@
     "url": "$VAL1",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-kingdom-kum",
-    "status": "down",
-    "uptime": "87.99%",
-    "uptimeDay": "39.07%",
-    "uptimeWeek": "87.99%",
-    "uptimeMonth": "87.99%",
-    "uptimeYear": "87.99%",
+    "status": "up",
+    "uptime": "87.93%",
+    "uptimeDay": "38.75%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "87.93%",
+    "uptimeYear": "87.93%",
     "time": 221,
-    "timeDay": 182,
+    "timeDay": 0,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2021-06-19": 877
+      "2021-06-19": 882
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "$VAL2",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-great-hall-and-oaks",
-    "status": "down",
-    "uptime": "83.26%",
-    "uptimeDay": "39.07%",
-    "uptimeWeek": "83.26%",
-    "uptimeMonth": "83.26%",
-    "uptimeYear": "83.26%",
+    "status": "up",
+    "uptime": "83.19%",
+    "uptimeDay": "38.75%",
+    "uptimeWeek": "83.19%",
+    "uptimeMonth": "83.19%",
+    "uptimeYear": "83.19%",
     "time": 53,
-    "timeDay": 30,
+    "timeDay": 0,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2021-06-19": 877
+      "2021-06-19": 882
     }
   },
   {
