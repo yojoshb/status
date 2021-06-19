@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico",
     "slug": "plex-media-server",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 117,
     "timeDay": 59,
     "timeWeek": 117,
@@ -78,9 +78,9 @@
     "url": "$VAL1",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-kingdom-kum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +89,18 @@
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 0
+    }
   },
   {
     "name": "Valheim Server (Great Hall and Oaks)",
     "url": "$VAL2",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-great-hall-and-oaks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +109,9 @@
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 0
+    }
   },
   {
     "name": "Minecraft Server",
