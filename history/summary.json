@@ -5,13 +5,13 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico",
     "slug": "plex-media-server",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 117,
-    "timeDay": 59,
+    "timeDay": 93,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 177,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "time": 227,
+    "timeDay": 211,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -42,9 +42,9 @@
     "url": "$URL_WIKI",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 577,
     "timeMonth": 577,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 0
+    }
   },
   {
     "name": "Guacamole Server",
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 114,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 246,
+    "timeDay": 164,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +81,18 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-kingdom-kum",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "87.99%",
+    "uptimeDay": "39.07%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "87.99%",
     "time": 221,
     "timeDay": 182,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2021-06-19": 0
+      "2021-06-19": 877
     }
   },
   {
@@ -99,18 +101,18 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-great-hall-and-oaks",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "83.26%",
+    "uptimeDay": "39.07%",
+    "uptimeWeek": "83.26%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "83.26%",
     "time": 53,
     "timeDay": 30,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2021-06-19": 0
+      "2021-06-19": 877
     }
   },
   {
