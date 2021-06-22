@@ -14,7 +14,7 @@ sites:
     url: $URL_WIKI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Vaultwarden
-    url: $URL_Vault
+    url: $URL_VAULT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico
   - name: Guacamole Server
     url: $URL_GUAC
