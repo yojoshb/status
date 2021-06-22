@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.joshyb.xyz): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [my public domain](https://status.joshyb.xyz), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for my public services, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/yojoshb/status/workflows/Uptime%20CI/badge.svg)](https://github.com/yojoshb/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/yojoshb/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/yojoshb/status/actions?query=workflow%3A%22Response+Time+CI%22)
