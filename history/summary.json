@@ -61,19 +61,17 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "1.32%",
-    "uptimeDay": "1.32%",
-    "uptimeWeek": "1.32%",
-    "uptimeMonth": "1.32%",
-    "uptimeYear": "1.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 317,
     "timeDay": 317,
     "timeWeek": 317,
     "timeMonth": 317,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2021-06-22": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Guacamole Server",
