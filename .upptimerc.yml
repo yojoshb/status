@@ -10,7 +10,7 @@ sites:
   - name: Ombi
     url: $URL_OMBI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico
-  - name: Wiki
+  - name: Docs
     url: $URL_WIKI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Vaultwarden
