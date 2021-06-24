@@ -31,6 +31,7 @@ sites:
     port: 443
     url: $VAL2
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
+    href: https://github.com/$OWNER/$REPO
   - name: Minecraft Server
     #check: "tcp-ping"
     url: $MC
