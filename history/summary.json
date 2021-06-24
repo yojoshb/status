@@ -60,19 +60,19 @@
     "url": "$URL_VAULT",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 236,
-    "timeDay": 225,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 242,
+    "timeDay": 237,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 2
     }
   },
   {
