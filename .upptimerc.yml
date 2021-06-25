@@ -59,6 +59,8 @@ status-website:
       href: /
     #- title: Contact
     #  href: mailto:
+    - title: Hall and Oaks Supervisor
+      href: https://val2supervisor.joshyb.xyz/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
