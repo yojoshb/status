@@ -4,9 +4,9 @@
     "url": "$URL_PLEX",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico",
     "slug": "plex-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 85,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "Ombi",
@@ -95,11 +97,11 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico",
     "slug": "valheim-server-kingdom-kum",
     "status": "down",
-    "uptime": "96.96%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "96.96%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
