@@ -59,7 +59,7 @@ status-website:
     #- title: Contact
     #  href: mailto:
     - title: Valheim Server (Modded) Supervisor
-      href: https://val2supervisor.joshyb.xyz/
+      href: https://valsupervisor.joshyb.xyz/
     - title: Valheim Server (Hall and Oaks) Supervisor
       href: https://val2supervisor.joshyb.xyz/
     - title: GitHub
