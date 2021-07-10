@@ -19,11 +19,11 @@ sites:
   - name: Guacamole Server
     url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico
-  - name: Valheim Server (Kingdom Kum)
+  - name: Valheim Server (Modded)
     #check: "udp-ping"
     # waiting for proper udp-check or something to do this correctly
-    expectedStatusCodes: 
-      - 401
+    check: "tcp-ping"
+    port: 443
     url: $VAL1
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   - name: Valheim Server (Great Hall and Oaks)
@@ -31,7 +31,6 @@ sites:
     port: 443
     url: $VAL2
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
-    href: https://github.com/$OWNER/$REPO
   - name: Minecraft Server
     #check: "tcp-ping"
     url: $MC
@@ -59,7 +58,9 @@ status-website:
       href: /
     #- title: Contact
     #  href: mailto:
-    - title: Hall and Oaks Supervisor
+    - title: Valheim Server (Modded) Supervisor
+      href: https://val2supervisor.joshyb.xyz/
+    - title: Valheim Server (Hall and Oaks) Supervisor
       href: https://val2supervisor.joshyb.xyz/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
