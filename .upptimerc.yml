@@ -45,8 +45,8 @@ assignees:
   
 status-website:
   cname: status.joshyb.xyz
-  # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #baseUrl: /your-repo-name
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   favicon: https://raw.githubusercontent.com/yojoshb/status/master/assets/pepe_thumbsup.png
   theme: night
@@ -60,8 +60,6 @@ status-website:
     #  href: mailto:
     - title: Valheim Server (Modded) Supervisor
       href: https://valsupervisor.joshyb.xyz/
-    - title: Valheim Server (Hall and Oaks) Supervisor
-      href: https://val2supervisor.joshyb.xyz/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
