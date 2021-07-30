@@ -4,46 +4,50 @@
     "url": "$URL_PLEX",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico",
     "slug": "plex-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 103,
     "timeDay": 47,
-    "timeWeek": 88,
+    "timeWeek": 92,
     "timeMonth": 93,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 3
+    }
   },
   {
     "name": "Ombi",
     "url": "$URL_OMBI",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico",
     "slug": "ombi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 103,
     "timeWeek": 195,
     "timeMonth": 207,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 2
+    }
   },
   {
     "name": "Docs",
     "url": "$URL_WIKI",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
@@ -51,17 +55,19 @@
     "timeWeek": 262,
     "timeMonth": 271,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 2
+    }
   },
   {
     "name": "Vaultwarden",
     "url": "$URL_VAULT",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
@@ -69,17 +75,19 @@
     "timeWeek": 216,
     "timeMonth": 207,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 1
+    }
   },
   {
     "name": "Guacamole Server",
     "url": "$URL_GUAC",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico",
     "slug": "guacamole-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
@@ -87,7 +95,9 @@
     "timeWeek": 200,
     "timeMonth": 190,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 1
+    }
   },
   {
     "name": "Valheim Server (Modded)",
