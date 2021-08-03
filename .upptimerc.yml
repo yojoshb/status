@@ -20,7 +20,6 @@ sites:
     url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico
   - name: Valheim Server (Modded)
-    #check: "udp-ping"
     # waiting for proper udp-check or something to do this correctly
     check: "tcp-ping"
     port: 443
@@ -32,11 +31,11 @@ sites:
     url: $VAL2
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   - name: Minecraft Server
-    #check: "tcp-ping"
-    #url: $MC
-    url: lskdjf
-    #port: $MC_PORT
     # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
+    #check: "tcp-ping"
+    url: url: https://thissitedoesnotexist.koj.co
+    #url: $MC
+    #port: $MC_PORT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
 
 assignees:
