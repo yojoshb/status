@@ -33,7 +33,8 @@ sites:
   - name: Minecraft Server
     # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
     #check: "tcp-ping"
-    url: https://thissitedoesnotexist.koj.co
+    #url: https://thissitedoesnotexist.koj.co
+    url: https://www.google.com
     #url: $MC
     #port: $MC_PORT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
