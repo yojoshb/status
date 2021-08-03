@@ -30,14 +30,12 @@ sites:
     port: 443
     url: $VAL2
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
-  - name: Minecraft Server
+  #- name: Minecraft Server
     # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
     #check: "tcp-ping"
-    #url: https://thissitedoesnotexist.koj.co
-    url: https://www.google.com
     #url: $MC
     #port: $MC_PORT
-    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
+    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
 
 assignees:
   - yojoshb
