@@ -33,11 +33,10 @@ sites:
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   - name: Minecraft Server
     #check: "tcp-ping"
-    url: $MC
+    #url: $MC
+    url: lskdjf
     #port: $MC_PORT
     # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
-    expectedStatusCodes: 
-      - 401
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/minecraft_icon.ico
 
 assignees:
