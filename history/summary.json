@@ -4,19 +4,19 @@
     "url": "$URL_PLEX",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico",
     "slug": "plex-media-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 101,
-    "timeDay": 47,
-    "timeWeek": 90,
-    "timeMonth": 93,
+    "timeDay": 48,
+    "timeWeek": 87,
+    "timeMonth": 92,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2021-08-09": 0
+      "2021-08-09": 20
     }
   },
   {
