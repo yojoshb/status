@@ -22,19 +22,19 @@
     "url": "$URL_OMBI",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico",
     "slug": "ombi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.92%",
     "time": 218,
-    "timeDay": 282,
-    "timeWeek": 268,
-    "timeMonth": 211,
+    "timeDay": 233,
+    "timeWeek": 257,
+    "timeMonth": 210,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2021-08-21": 2
+      "2021-08-21": 77
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$URL_WIKI",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 382,
-    "timeWeek": 312,
-    "timeMonth": 287,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.91%",
+    "time": 281,
+    "timeDay": 269,
+    "timeWeek": 292,
+    "timeMonth": 284,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2021-08-21": 1
+      "2021-08-21": 77
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$URL_VAULT",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.91%",
     "time": 207,
-    "timeDay": 233,
-    "timeWeek": 217,
-    "timeMonth": 200,
+    "timeDay": 195,
+    "timeWeek": 210,
+    "timeMonth": 199,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2021-08-21": 1
+      "2021-08-21": 76
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "$URL_GUAC",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico",
     "slug": "guacamole-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 229,
-    "timeWeek": 212,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.92%",
+    "time": 201,
+    "timeDay": 164,
+    "timeWeek": 198,
+    "timeMonth": 199,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2021-08-21": 0
+      "2021-08-21": 76
     }
   },
   {
