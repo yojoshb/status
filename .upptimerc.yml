@@ -10,26 +10,26 @@ sites:
   - name: Ombi
     url: $URL_OMBI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico
-  - name: Docs
-    url: $URL_WIKI
-    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
-  - name: Vaultwarden
+  #- name: Docs
+    #url: $URL_WIKI
+    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
+  - name: Vault
     url: $URL_VAULT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico
-  - name: Guacamole Server
+  - name: Guacamole
     url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico
-  - name: Valheim Server (Modded)
+  - name: Valheim Server
     # waiting for proper udp-check or something to do this correctly
     check: "tcp-ping"
     port: 443
     url: $VAL1
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
-  - name: Valheim Server (Great Hall and Oaks)
-    check: "tcp-ping"
-    port: 443
-    url: $VAL2
-    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
+  #- name: Valheim Server (Great Hall and Oaks)
+    #check: "tcp-ping"
+    #port: 443
+    #url: $VAL2
+    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   #- name: Minecraft Server
     # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
     #check: "tcp-ping"
@@ -55,7 +55,7 @@ status-website:
       href: /
     #- title: Contact
     #  href: mailto:
-    - title: Valheim Server (Modded) Supervisor
+    - title: Valheim Server Supervisor
       href: https://valsupervisor.joshyb.xyz/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
