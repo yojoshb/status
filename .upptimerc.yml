@@ -10,9 +10,9 @@ sites:
   - name: Ombi
     url: $URL_OMBI
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico
-  #- name: Docs
-    #url: $URL_WIKI
-    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
+  - name: Files
+    url: $URL_FILES
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico
   - name: Vault
     url: $URL_VAULT
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico
