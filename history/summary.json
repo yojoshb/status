@@ -22,10 +22,10 @@
     "url": "$URL_OMBI",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico",
     "slug": "ombi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
@@ -33,52 +33,58 @@
     "timeWeek": 221,
     "timeMonth": 200,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-05": 2
+    }
   },
   {
     "name": "Files",
     "url": "$URL_FILES",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "files",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 224,
     "timeDay": 238,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-05": 1
+    }
   },
   {
     "name": "Vault",
     "url": "$URL_VAULT",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico",
     "slug": "vault",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 191,
     "timeDay": 292,
     "timeWeek": 198,
     "timeMonth": 191,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-05": 1
+    }
   },
   {
     "name": "Guacamole",
     "url": "$URL_GUAC",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico",
     "slug": "guacamole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +93,9 @@
     "timeWeek": 212,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-05": 0
+    }
   },
   {
     "name": "Valheim Server",
