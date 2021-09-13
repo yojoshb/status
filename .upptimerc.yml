@@ -55,8 +55,6 @@ status-website:
       href: /
     #- title: Contact
     #  href: mailto:
-    - title: Valheim Server Supervisor
-      href: https://valsupervisor.joshyb.xyz/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
