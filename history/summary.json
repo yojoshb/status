@@ -102,9 +102,9 @@
     "url": "$URL_GUAC",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico",
     "slug": "guacamole",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -114,6 +114,7 @@
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2021-09-24": 0,
       "2021-09-05": 23
     }
   },
