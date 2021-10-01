@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 97,
     "timeDay": 48,
-    "timeWeek": 107,
-    "timeMonth": 95,
+    "timeWeek": 99,
+    "timeMonth": 96,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2021-09-06": 22
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 217,
-    "timeDay": 101,
-    "timeWeek": 238,
-    "timeMonth": 219,
+    "timeDay": 108,
+    "timeWeek": 223,
+    "timeMonth": 220,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-09-05": 25
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 103,
-    "timeWeek": 204,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 193,
+    "timeDay": 99,
+    "timeWeek": 191,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "files",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 208,
-    "timeDay": 115,
-    "timeWeek": 224,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 206,
+    "timeDay": 126,
+    "timeWeek": 211,
+    "timeMonth": 207,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2021-09-05": 24
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 198,
-    "timeDay": 101,
-    "timeWeek": 204,
-    "timeMonth": 199,
-    "timeYear": 198,
+    "time": 195,
+    "timeDay": 107,
+    "timeWeek": 194,
+    "timeMonth": 201,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2021-09-05": 24
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 195,
-    "timeDay": 99,
-    "timeWeek": 217,
+    "time": 193,
+    "timeDay": 100,
+    "timeWeek": 205,
     "timeMonth": 199,
-    "timeYear": 195,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2021-09-05": 23
     }
