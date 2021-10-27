@@ -22,19 +22,19 @@ sites:
   - name: Guacamole
     url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico
-  - name: Valheim Server
-    # waiting for proper udp-check or something to do this correctly
-    check: "tcp-ping"
-    port: 443
-    url: $VAL1
-    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
+  #- name: Valheim Server
+     # waiting for proper udp-check or something to do this correctly
+    #check: "tcp-ping"
+    #port: 443
+    #url: $VAL1
+    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   #- name: Valheim Server (Great Hall and Oaks)
     #check: "tcp-ping"
     #port: 443
     #url: $VAL2
     #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
   #- name: Minecraft Server
-    # tcp-ping not reporting as failed when pings fail... so gonna put this guy in scheduled maintenance and fail it
+     # tcp-ping not reporting as failed when pings fail...
     #check: "tcp-ping"
     #url: $MC
     #port: $MC_PORT
