@@ -4,10 +4,10 @@
     "url": "$URL_PLEX",
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/plex_icon.ico",
     "slug": "plex-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 100,
@@ -16,6 +16,7 @@
     "timeMonth": 106,
     "timeYear": 100,
     "dailyMinutesDown": {
+      "2022-01-10": 0,
       "2022-01-03": 49
     }
   },
