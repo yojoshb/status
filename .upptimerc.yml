@@ -22,19 +22,14 @@ sites:
   - name: Guacamole
     url: $URL_GUAC
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico
-  #- name: Valheim Server
-     # waiting for proper udp-check or something to do this correctly
-    #check: "tcp-ping"
-    #port: 443
-    #url: $VAL1
-    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
-  #- name: Valheim Server (Great Hall and Oaks)
-    #check: "tcp-ping"
-    #port: 443
-    #url: $VAL2
-    #icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/valheim_icon.ico
+  - name: Assetto Corsa Drift Server
+    url: $URL_AC1
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ac_icon.png
+  - name: Assetto Corsa Race Server
+    url: $URL_AC1
+    icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ac_icon.png
   #- name: Minecraft Server
-     # tcp-ping not reporting as failed when pings fail...
+  # tcp-ping not reporting as failed when pings fail...
     #check: "tcp-ping"
     #url: $MC
     #port: $MC_PORT
