@@ -26,7 +26,7 @@ sites:
     url: $URL_AC1
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ac_icon.png
   - name: Assetto Corsa Race Server
-    url: $URL_AC1
+    url: $URL_AC2
     icon: https://raw.githubusercontent.com/yojoshb/status/master/assets/ac_icon.png
   #- name: Minecraft Server
   # tcp-ping not reporting as failed when pings fail...
