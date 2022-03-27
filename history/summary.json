@@ -8,16 +8,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 116,
-    "timeWeek": 108,
-    "timeMonth": 96,
+    "timeDay": 120,
+    "timeWeek": 109,
+    "timeMonth": 98,
     "timeYear": 100,
-    "dailyMinutesDown": {
-      "2022-02-28": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ombi",
@@ -25,20 +23,17 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/ombi_icon.ico",
     "slug": "ombi",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 341,
+    "timeDay": 328,
     "timeWeek": 320,
-    "timeMonth": 266,
+    "timeMonth": 271,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2022-02-28": 160,
-      "2022-02-23": 62
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mealie",
@@ -46,20 +41,17 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/mealie_icon.png",
     "slug": "mealie",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 257,
+    "timeDay": 243,
     "timeWeek": 222,
-    "timeMonth": 197,
+    "timeMonth": 200,
     "timeYear": 204,
-    "dailyMinutesDown": {
-      "2022-02-28": 159,
-      "2022-02-23": 62
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Files",
@@ -67,20 +59,17 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/wiki_icon.ico",
     "slug": "files",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 206,
-    "timeWeek": 200,
-    "timeMonth": 189,
+    "timeDay": 214,
+    "timeWeek": 202,
+    "timeMonth": 193,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2022-02-28": 159,
-      "2022-02-23": 61
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vault",
@@ -88,20 +77,17 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/vault_icon.ico",
     "slug": "vault",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 216,
-    "timeWeek": 196,
-    "timeMonth": 184,
+    "timeDay": 224,
+    "timeWeek": 199,
+    "timeMonth": 188,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2022-02-28": 158,
-      "2022-02-23": 61
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Guacamole",
@@ -109,20 +95,17 @@
     "icon": "https://raw.githubusercontent.com/yojoshb/status/master/assets/guac_icon.ico",
     "slug": "guacamole",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 215,
-    "timeWeek": 209,
-    "timeMonth": 184,
+    "timeDay": 222,
+    "timeWeek": 210,
+    "timeMonth": 188,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2022-02-28": 158,
-      "2022-02-23": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Assetto Corsa Drift Server",
@@ -135,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 278,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "time": 306,
+    "timeDay": 306,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -153,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   }
 ]
